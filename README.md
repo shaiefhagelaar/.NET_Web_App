@@ -49,12 +49,12 @@ Before diving in, understand how these pieces fit together. Your C# backend acts
 ---
 
 ## 🛠️ Recommended Tools for 2026
-| Component       | Technology                              | Why? |
+ Component        Technology                              Why? 
 
-| **Backend**     | **ASP.NET Core 10**                     | High performance and native C# support. |
-| **Frontend**    | **React + Vite**                        | The fastest build tool for TypeScript SPAs. |
-| **Database**    | **SQLite** (Dev) / **Azure SQL** (Prod) | Zero configuration to start. |
-| **Cloud**       | **Azure App Service**                   | "Free tier" available and perfect integration with C#. |
+ **Backend**      **ASP.NET Core 10**                      High performance and native C# support.
+ **Frontend**     **React + Vite**                         The fastest build tool for TypeScript SPAs.
+ **Database**     **SQLite** (Dev) / **Azure SQL** (Prod)  Zero configuration to start.
+ **Cloud**        **Azure App Service**                    "Free tier" available and perfect integration with C#. 
 
 ---
 
