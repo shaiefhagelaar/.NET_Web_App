@@ -4,7 +4,7 @@ Since you are building a .NET/TypeScript stack, these are the four primary archi
 
 ---
 
-## 🏗️ Architecture Comparison Table
+## Architecture Comparison Table
 
 | Architecture | Complexity | Security Focus | Best For |
 | :--- | :--- | :--- | :--- |
@@ -61,7 +61,7 @@ This is exactly what you are building with your **C# REST API** and **TypeScript
 
 ---
 
-## 🚀 My Recommendation for Your Week 1
+## Week 1 Recommendation
 For a webshop built in a week, use **Decoupled Architecture** (SPA + API) but organize your C# code using **Clean Architecture** principles.
 
 > **The "Trust No One" Implementation:**
